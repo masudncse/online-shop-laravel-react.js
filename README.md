@@ -12,7 +12,7 @@ A simple application on a online pizza shop.
 ## Technology
 - Laravel
 - React.js
-- MySql
+- SQLite
 - REST API
 
 ## Screenshot
