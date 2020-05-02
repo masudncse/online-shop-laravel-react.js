@@ -2,8 +2,8 @@
  * @Main css for (bilink)
  *
  * @project     - bilink
- * @author      - 
- * @created_by  - 
+ * @author      -
+ * @created_by  -
  * @created_at  - kawsar ibn siraj
  * @modified_by -
  */
@@ -1515,7 +1515,7 @@ body {
 
 #product .post-slide .post-img img {
     width: 100%;
-    height: 325px;
+    height: 200px;
     -webkit-object-fit: cover;
     object-fit: cover;
     -webkit-object-position: center;
@@ -2081,7 +2081,7 @@ body {
 }
 
 /**
- * Css 
+ * Css
  * @dashboard
  * @header-navigation
  * ---------------------------

@@ -112,7 +112,7 @@ class ProductComponent extends Component {
                                                 <h3 className="post-title mt-2">{product.title}</h3>
                                                 <p className="post-description"
                                                    title={striptags(product.content)}>
-                                                    {striptags(product.content).substring(0, 120) + '...'}
+                                                    {striptags(product.content).substring(0, 80)}
                                                 </p>
                                                 <h3 className="post-title text-success mt-2">
                                                     {makeCurrency(product.price)}
