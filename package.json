@@ -31,7 +31,7 @@
     },
     "dependencies": {
         "axios-cancel": "^0.2.2",
-        "moment": "^2.25.1",
+        "moment": "^2.29.2",
         "react-redux": "^7.2.0",
         "react-router-dom": "^5.1.2",
         "react-toastify": "^5.5.0",
